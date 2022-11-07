@@ -2,7 +2,7 @@
 <h3 align="center">A developer from Germany</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=allstergamer&label=Profile%20views&color=b10eb4&style=plastic" alt="allstergamer" /> </p>
-<p align="center"> main account: @allstergamer
+<p align="center"> main account: <a href="https://github.com/allstergamer">@allstergamer</a>
 
 
 <h2 align="center"> more about me:</h2>
